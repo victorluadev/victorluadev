@@ -1,8 +1,8 @@
 ## Olá Mundo!! Eu sou o Victor
 
 <div>
-  <img height="222em" src="https://github-readme-stats.vercel.app/api?username=victorluadev&theme=tokyonight&show_icons=true&count_private=true">
-  <img height="222em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorluadev&theme=tokyonight&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorluadev&theme=tokyonight&show_icons=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorluadev&theme=tokyonight&layout=compact">
 </div> 
 
 [![Victor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorluadev&bg_color=1A1B27&color=70A4FC&line=638FDA&point=38BDAE&area=true)](https://github.com/victorluadev/github-readme-activity-graph)
