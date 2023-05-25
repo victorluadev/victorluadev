@@ -5,8 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorluadev&theme=tokyonight&layout=compact">
 </div> 
 
-[![Victor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorluadev&bg_color=1A1B27&color=70A4FC&line=638FDA&point=38BDAE&area=true)](https://github.com/victorluadev/github-readme-activity-graph)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
